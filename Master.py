@@ -2,4 +2,4 @@
 
 print "Hello World"
 print "hello sayang"
-print "hahay"
+print "hahay" "hihi"
